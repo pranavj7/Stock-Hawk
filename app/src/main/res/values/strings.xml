@@ -1,0 +1,32 @@
+<resources>
+  <string name="error_loading" translatable="false">Error Loading!!</string>
+  <string name="graph_error" translatable="false">This stock graph maybe outdated....Please Try again later.</string>
+  <string name="desc_line_graph">Displaying stock graph</string>
+  <string name="desc_list_of_stock">Displaying details of stock you have added </string>
+  <string name="change_text" translatable="false">100%</string>
+  <string name="bid_price_text" translatable="false">1000.00</string>
+  <string name="stock_symbol">Stock Symbol</string>
+  <string name="bid_price" translatable="false">bid price</string>
+  <string name="change" translatable="false">Percentage Change</string>
+  <string name="stock_symbol_text">GOOG</string>
+  <string name="app_name" translatable="false">Stock Hawk</string>
+  <string name="app_widget" translatable="false">Stock Hawk Widget</string>
+  <string name="action_settings" translatable="false">Settings</string>
+  <string name="action_change_units" translatable="false">Change Units</string>
+  <string name="symbol_search" translatable="false">Symbol Search</string>
+  <string name="content_test" translatable="false">Search for a Stock Symbol</string>
+  <string name="input_hint" translatable="false">FB</string>
+  <string name="input_prefill" translatable="false"></string>
+  <string name="network_toast" translatable="false">Network connection has been interrupted!</string>
+  <string name="fab_content_description" translatable="false">Add a new stock</string>
+  <!-- Toast String -->
+
+  <string name="toast_saved" translatable="false">This stock is already saved!</string>
+  <!-- Alert Dialog Strings -->
+
+  <string name="no_internet" translatable="false">No Internet</string>
+  <string name="try_later" translatable="false">Something went wrong....Please Try again later.</string>
+  <string name="exit_now" translatable="false">Exit</string>
+  <string name="continue_now" translatable="false">Continue</string>
+
+</resources>
